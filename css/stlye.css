@@ -35,5 +35,47 @@ body{
 
 .amount-box img{
     width: 30px;
-    
+
+}
+
+.amount{
+    font-size: 30px;
+
+}
+
+.amount-box p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn-group{
+    margin: 20px, 0;
+    color: red;
+}
+
+.btn-group btn{
+    margin: 8px;
+    border-radius: 20px !important;
+
+}
+.txn-history{
+    text-align: left;
+}
+
+.txn-list{
+background-color: var(--white);
+padding: 12px 10px;
+color: #777;
+font-size: 14px;
+margin: 7px 0;
+
+}
+.debit-amount{
+    color: red;
+    float: right;
+}
+
+.credit-amount{
+    color: green;
+    float: right;
 }
