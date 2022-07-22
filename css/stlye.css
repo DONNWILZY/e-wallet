@@ -79,3 +79,16 @@ margin: 7px 0;
     color: green;
     float: right;
 }
+
+.footer-menu{
+    margin: 20px -20px 0;
+    bottom: 0;
+    border-top: 1px solid #ccc;
+    padding: 10px 10px 0;
+}
+
+.footer-menu p{
+
+    font-size: 12px;
+    
+}
