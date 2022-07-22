@@ -20,3 +20,20 @@ body{
     position: absolute;
 
 }
+
+.page-title{
+   text-align: left; 
+}
+
+.fa-user{
+    float: right;
+}
+
+.fa-align-left{
+    margin-right: 15px;
+}
+
+.amount-box img{
+    width: 30px;
+    
+}
